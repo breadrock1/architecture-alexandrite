@@ -59,7 +59,7 @@ MES и CRM взаимодействуют друг с другом через Ra
 
 Вот схема текущей архитектуры в модели C4:
 
-![jewerly_c4_model_1733136469.jpg](docs/jewerly_c4_model_1733136469.jpg)
+![jewerly_c4_model_1733136469.jpg](docs/jewerly-c4-model.jpg)
 
 Окружений всего три: dev, release и prod.
 
